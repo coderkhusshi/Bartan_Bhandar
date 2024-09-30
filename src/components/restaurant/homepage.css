@@ -1,0 +1,17 @@
+.menu-div h1 , .order-count h1 {
+    color:  #aaa;
+}
+.menu-count , .order-count {
+    border: 1px solid #fff;
+    box-shadow: 0px 0px 8px #aaa;
+    border-radius: 10px;
+}
+.count {
+    margin: 5rem;
+}
+.count span {
+    border-radius: 50%;
+    box-shadow: 0px 0px 8px #ccc;
+    font-size: 3rem;
+    padding: 2rem 3rem;
+}

@@ -1,0 +1,44 @@
+.category img {
+    border-radius: 50%;
+    width: 10rem;
+    height: 10rem;
+    padding: 20px;
+   
+    margin: 15px;
+}
+.category p , .brand p{
+    font-size: 1.3rem !important;
+    font-weight: 400 !important;
+}
+
+.brand {
+    padding: 1rem;
+}
+.brands .brand .brand-img {
+    border-radius: 50%;
+    margin: 0 2.5rem;
+    padding: 20px;
+    box-shadow: 0px 0px 8px #ccc;
+}
+
+.brand img {
+    width: 8rem;
+}
+.brand p {
+    margin-top: 15px;
+}
+
+.categories .heading h1 , .brands .heading h1 , .menu-items .heading h1{
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.menu-items .content .heading h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.menu-items .content .price h3 {
+    font-weight: 400;
+    color: #555;
+}

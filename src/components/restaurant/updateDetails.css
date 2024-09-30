@@ -1,0 +1,31 @@
+.restaurantImage {
+    box-shadow: 0px 0px 10px #aaa;
+}
+
+.resImg {
+    padding: 0rem; 
+    margin: 3rem;
+    transition: box-shadow .5s ease-in-out;
+}
+
+.resImg:hover {
+    box-shadow: 0px 0px 20px #777;
+}
+
+#file {
+    display: none;
+}
+
+.file-style {
+    font-family: 'Trebuchet MS';
+    width: 150px;
+    height: 50px;
+    display: block;
+    background-color: #f5f4f4;
+    margin: auto;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 50px;
+    border: 1px solid #cdc8c8;
+    padding: 15px;
+}

@@ -1,0 +1,10 @@
+.image {
+    overflow: hidden;
+    cursor: pointer;
+}
+.restaurantPhoto {
+    transition: transform 0.5s;
+}
+.restaurantPhoto:hover {
+    transform: scale(1.1);
+}

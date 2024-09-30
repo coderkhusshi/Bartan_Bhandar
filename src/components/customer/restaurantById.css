@@ -1,0 +1,27 @@
+.image, .info {
+    padding: 5rem;
+}
+
+.info .heading h1 {
+    font-size: 5rem;
+}
+.info .description p {
+    font-size: 1.5rem;
+    color: #777;
+}
+.info .details th {
+    font-size: 1rem;
+    color: #777;
+}
+.info .details td {
+    color: #000;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.menu .heading h1 {
+    font-size: 3rem;
+}
+.reviews .heading h1 {
+    font-size: 3rem;
+}

@@ -1,0 +1,51 @@
+.section1 {
+    margin: 0px;
+    padding: 1rem;
+    /* background-image: url("https://t3.ftcdn.net/jpg/01/34/75/72/360_F_134757293_eApu7IaepN7QVa2Xd21B4vyoIdSVEioj.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat; */
+    background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(252,177,3,1) 100%); 
+}
+.section1 .message .header {
+    padding: 5em;
+}
+.message .header {
+    text-align: left;
+}
+.message .header h1 {
+    font-size: 5vw;
+}
+
+.image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.working {
+    padding: 2rem;
+}
+.working .header h1 {
+    font-size: 4vw;
+    padding: 30px;
+}
+.working .steps {
+    padding: 30px;
+}
+.working .steps .step {
+    padding: 30px;
+}
+.working .steps .step .description h1 {
+    padding: 10px;
+    font-weight: 400;
+}
+.working .steps .step .description h1 span {
+    font-weight: bolder;
+    color: #aaa;
+}
+
+.section3 {
+    padding: 4rem;
+}
+.section3 .message h1 {
+    font-size: 4vw;
+}
